@@ -1,3 +1,3 @@
 # Project 0
 
-Web Programming with Python and JavaScript
+Responsive Web Pages with HTML, CSS and Bootstrap
